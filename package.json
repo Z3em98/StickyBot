@@ -1,0 +1,30 @@
+{
+  "name": "discord-sticky-message-bot",
+  "version": "1.0.0",
+  "description": "Discord Sticky Message Bot",
+  "homepage": "https://github.com/Z3em98/StickyBot",
+  "bugs": {
+    "url": "https://github.com/Z3em98/StickyBot"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Z3em98/StickyBot"
+  },
+  "author": "Z3em",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0"
+  },
+  "engines": {
+    "node": "15.x"
+  },
+  "private": false
+}
